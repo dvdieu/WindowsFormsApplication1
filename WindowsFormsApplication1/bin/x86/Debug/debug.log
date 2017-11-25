@@ -1,0 +1,1385 @@
+[1125/165919.896:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1125/165933.870:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1125/165933.889:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: a1934aaf-c37c-4ce1-b8b1-05d06df80e2a
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: a1934aaf-c37c-4ce1-b8b1-05d06df80e2a
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1125/170612.891:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1125/170646.357:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1125/170646.359:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: 656c5b27-ea6e-44b7-9920-e76358131f96
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: 656c5b27-ea6e-44b7-9920-e76358131f96
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1125/171833.498:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1125/171843.156:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1125/171843.188:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: 6970e836-7250-4b78-b0f4-0a2b37df406f
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: 6970e836-7250-4b78-b0f4-0a2b37df406f
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1125/171902.158:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1125/171911.374:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1125/171911.379:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: 42fc6318-719b-4678-8f83-defd0dedb7ee
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: 42fc6318-719b-4678-8f83-defd0dedb7ee
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1125/172419.958:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1125/172755.488:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1125/172804.033:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1125/172804.044:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: add51f79-1b4d-426c-8345-32c2b86a7636
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: add51f79-1b4d-426c-8345-32c2b86a7636
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1125/173026.448:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1125/173053.417:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1125/173101.759:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1125/173101.766:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: 9866fbc8-3886-4861-81a1-98f40e8cbc8a
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: 9866fbc8-3886-4861-81a1-98f40e8cbc8a
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1125/173351.560:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1125/173433.984:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1125/173443.401:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1125/173443.416:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: e160b986-526d-4869-8948-db79d075af8f
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: e160b986-526d-4869-8948-db79d075af8f
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1125/173515.810:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1125/173524.976:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1125/173524.982:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: 758b009e-d022-4e64-a0e9-83ed7fc998da
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: 758b009e-d022-4e64-a0e9-83ed7fc998da
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1125/173543.650:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1125/173552.442:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1125/173552.442:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: 76db797f-8085-4ac2-966f-7bf4becbdef3
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: 76db797f-8085-4ac2-966f-7bf4becbdef3
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1125/174012.755:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=1
+[1125/174143.013:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=2
+[1125/174605.442:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=3
+[1125/174614.942:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=4
+[1125/174619.693:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=5
+[1125/174624.442:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=6
+[1125/174629.192:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=7
+[1125/174638.692:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=8
+[1125/174643.455:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=9
+[1125/175908.463:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1125/175918.835:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1125/175918.836:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: f6d5775a-d129-41b5-a78e-d68e7f7dd753
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: f6d5775a-d129-41b5-a78e-d68e7f7dd753
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1125/180140.005:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=1
+[1125/180159.005:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=2
+[1125/180203.755:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=3
+[1125/180215.635:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=4
+[1125/180608.595:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1125/180618.756:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1125/180618.765:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: 92351a0d-e7d9-4ac8-9d9c-2205e234b89d
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: 92351a0d-e7d9-4ac8-9d9c-2205e234b89d
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1125/180633.460:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1125/180633.463:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: 92351a0d-e7d9-4ac8-9d9c-2205e234b89d
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: 92351a0d-e7d9-4ac8-9d9c-2205e234b89d
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1125/182752.266:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1125/182803.879:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1125/182803.883:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: ebc112df-559f-41d8-9bec-d6febbfe4b93
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: ebc112df-559f-41d8-9bec-d6febbfe4b93
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1125/182926.448:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1125/182935.846:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1125/182935.853:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: 91a29820-3c25-4844-918e-b6789d09d8a0
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: 91a29820-3c25-4844-918e-b6789d09d8a0
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1125/183014.236:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1125/183023.681:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1125/183023.684:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: 7b6587bc-1cd2-40e4-822c-4503207a41fc
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: 7b6587bc-1cd2-40e4-822c-4503207a41fc
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1125/184235.577:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1125/184300.415:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1125/184314.309:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1125/184314.309:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: 6642cd6b-a073-4948-960e-25bc5b9428bf
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: 6642cd6b-a073-4948-960e-25bc5b9428bf
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1125/184632.334:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1125/184702.665:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1125/184702.674:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: 8808cbba-a51a-4667-8da7-c8fa56068735
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: 8808cbba-a51a-4667-8da7-c8fa56068735
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1125/184917.201:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1125/184949.333:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1125/185000.787:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1125/185000.792:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: ee94fe1c-c69b-419f-82e1-7a71128294ad
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: ee94fe1c-c69b-419f-82e1-7a71128294ad
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
